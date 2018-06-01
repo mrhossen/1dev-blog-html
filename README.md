@@ -6,4 +6,4 @@ _*Minimal HTML Blog Template*_
 
 [Blog Single demo](https://rahat.me/demo/cdos-blog-html/single.html)
 
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home-page.png)
