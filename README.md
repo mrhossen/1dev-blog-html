@@ -2,8 +2,8 @@
 
 _*Minimal HTML Blog Template*_
 
-[Homepage demo](https://rahat.me/demo/cdos-blog-html/)
+<a target="_blank" href="https://rahat.me/demo/cdos-blog-html/">Homepage demo</a>
 
-[Blog Single demo](https://rahat.me/demo/cdos-blog-html/single.html)
+<a target="_blank" href="https://rahat.me/demo/cdos-blog-html/single.html">Blog Single demo</a>
 
 ![Home Page](screenshots/home-page.png)
