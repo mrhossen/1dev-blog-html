@@ -1,4 +1,4 @@
-# CDOS BLOG HTML
+# 1DEV BLOG HTML
 
 _*Minimal HTML Blog Template*_
 
